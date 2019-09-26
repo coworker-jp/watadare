@@ -1,0 +1,13 @@
+beautifulsoup4
+environs
+facenet_pytorch
+flask
+flask_cors
+loguru
+numpy
+pillow
+redis
+requests
+scikit-learn
+torch
+torchvision
